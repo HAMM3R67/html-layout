@@ -1,0 +1,47 @@
+.parent {
+	background-color: white;
+	margin: 0;
+	border: 0;
+}
+
+.grey {
+	background-color: gray;
+	height: 14%;
+}
+
+.babyBlue {
+	background-color: blue;
+	height: 80%;
+	width: 10%;
+	margin-left: 20px;
+}
+
+
+.white {
+	background-color: white;
+	height: 28%;	
+}
+
+.blue {
+	background-color: blue;
+	height: 14%;
+}
+
+.teal {
+	background-color: teal;
+	height: 14%;
+}
+
+.limeGreen {
+	background-color: green;
+	height: 14%;
+}
+
+.yellow {
+	background-color: yellow;
+	height: 14%;
+}
+
+.text {
+	text-align: center;
+}
