@@ -1,0 +1,22 @@
+.parent {
+	background-color: #bbbbbb;
+	height: 1000px;
+}
+
+.topBox {
+	background-color: gray;
+	height: 10%;
+	width: 100%;
+}
+
+.middle {
+	background-color: black;
+	height: 100%;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.bottomBox {
+	background-color: white;
+	height: 90%;
+}
